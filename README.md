@@ -1,2 +1,5 @@
-- 👋 Salut, je suis Nitrox
-- 👀 Je suis sur FiveM !
+- Salut, je suis Nitrox
+- Je suis sur FiveM !
+- J'ai 18 ans
+- Créateur de serveur FiveM
+- Apprenti Développeur LUA/HTML
